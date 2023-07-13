@@ -11,6 +11,6 @@ import Foundation
 // just so we can have some program Mick content in this new file.
 struct  mymodel
 {
-    var someName: String
+    var someName: String = "My Name"
     
 }// Close Press that
